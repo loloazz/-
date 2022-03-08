@@ -1,0 +1,74 @@
+1622277794568	geckodriver	INFO	Listening on 127.0.0.1:57878
+1622277795102	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\22231\\AppData\\Local\\Temp\\rust_mozprofilebxUVmT"
+1622277795570	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1622277797656	Marionette	INFO	Listening on port 57883
+1622277797737	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://csdnimg.cn/public/common/libs/jquery/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://g.csdnimg.cn/tingyun/1.8.5/blog.js, line 1: uncaught exception: TagError: adsbygoogle.push() error: No slot size for availableWidth=0
+JavaScript error: https://g.csdnimg.cn/login-box/1.1.4/login-box.js, line 1: SecurityError: Permission denied to access property "checkPollingTimer" on cross-origin object
+JavaScript error: https://aeu.alicdn.com/waf/antidomxss_v640.js, line 1: NS_ERROR_FAILURE: 
+JavaScript warning: https://csdnimg.cn/public/common/libs/jquery/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://g.csdnimg.cn/tingyun/1.8.5/blog.js, line 1: uncaught exception: TagError: adsbygoogle.push() error: No slot size for availableWidth=0
+1622278206118	Marionette	INFO	Stopped listening on port 57883
+ust_mozprofilegxbRg7"
+1622277853867	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1622277855648	Marionette	INFO	Listening on port 61308
+1622277856128	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://gkcx.eol.cn/assets/js/jquery.min.js, line 10: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1622277860197	Marionette	INFO	Stopped listening on port 61308
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1622277918541	geckodriver	INFO	Listening on 127.0.0.1:53140
+1622277919089	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\22231\\AppData\\Local\\Temp\\rust_mozprofileJuhXZG"
+1622277919476	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1622277921237	Marionette	INFO	Listening on port 53145
+1622277921726	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://gkcx.eol.cn/assets/js/jquery.min.js, line 10: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://gkcx.eol.cn/assets/js/jquery.min.js, line 10: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1622278203919	Marionette	INFO	Stopped listening on port 53145
+1622278204372	geckodriver	INFO	Listening on 127.0.0.1:60746
+1622278204917	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\22231\\AppData\\Local\\Temp\\rust_mozprofileK6QMYG"
+1622278205378	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1622278207329	Marionette	INFO	Listening on port 60751
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+1622278207682	Marionette	INFO	Stopped listening on port 60751
+1622278210218	geckodriver	INFO	Listening on 127.0.0.1:57535
+1622278210757	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\22231\\AppData\\Local\\Temp\\rust_mozprofileE1uyQT"
+1622278211202	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1622278213071	Marionette	INFO	Listening on port 57540
+1622278213436	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://gkcx.eol.cn/assets/js/jquery.min.js, line 10: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1622278234506	geckodriver	INFO	Listening on 127.0.0.1:58732
+1622278235042	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\22231\\AppData\\Local\\Temp\\rust_mozprofile0b3q4F"
+1622278235412	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1622278237286	Marionette	INFO	Listening on port 58737
+1622278237668	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://gkcx.eol.cn/assets/js/jquery.min.js, line 10: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://gkcx.eol.cn/assets/js/jquery.min.js, line 10: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+[Parent 23240, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3A0155,name=PContent::Msg_InsertNewFocusActionId) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x6B0027,name=PNecko::Msg_RemoveRequestContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3A0155,name=PContent::Msg_InsertNewFocusActionId) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3A0155,name=PContent::Msg_InsertNewFocusActionId) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3A0148,name=PContent::Msg_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3A0148,name=PContent::Msg_DiscardBrowsingContext) Closed channel: cannot send/recv
+
